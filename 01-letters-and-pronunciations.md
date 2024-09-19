@@ -6,41 +6,11 @@
 b c d f g j k l m n p r s t v x z '
 ```
 
-### IPA Pronunciation Guide:
-
-- **b** = /b/ as in "boy"
-- **c** = /ʃ/ as in "**sh**ell"
-- **d** = /d/ as in "dog"
-- **f** = /f/ as in "fish"
-- **g** = /ɡ/ as in "go"
-- **j** = /ʒ/ as in "mea**s**ure" or "plea**s**ure"
-- **k** = /k/ as in "kite"
-- **l** = /l/ as in "leaf"
-- **m** = /m/ as in "moon"
-- **n** = /n/ as in "net"
-- **p** = /p/ as in "pen"
-- **r** = /r/ as in "red" (trilled or tapped /ɾ/ in some dialects)
-- **s** = /s/ as in "see"
-- **t** = /t/ as in "top"
-- **v** = /v/ as in "voice"
-- **x** = /χ/ as in "ba**ch**" or "lo**ch**" (voiceless uvular fricative)
-- **z** = /z/ as in "zoo"
-- **'** = /h/ as in "**h**ouse" (voiced glottal fricative)
-
 ## Vowels
 
 ```
 a e i o u y
 ```
-
-### IPA Pronunciation Guide:
-
-- **a** = /a/ as in "f**a**ther" (not "hat")
-- **e** = /ɛ/ as in "g**e**t"
-- **i** = /i/ as in "f**ee**t" or "mach**i**ne"
-- **o** = /o/ as in "b**o**ld" or "m**o**re" (pure sound)
-- **u** = /u/ as in "c**oo**l"
-- **y** = /ə/ (schwa sound) as in "sof**a**"
 
 ## Notes
 
@@ -52,7 +22,24 @@ a e i o u y
 
 ## Consonants
 
-Most consonants are pronounced as in English, with exceptions being:
+Most consonants are pronounced as in English:
+
+- **b** = /b/ as in "boy"
+- **d** = /d/ as in "dog"
+- **f** = /f/ as in "fish"
+- **g** = /ɡ/ as in "go"
+- **k** = /k/ as in "kite"
+- **l** = /l/ as in "leaf"
+- **m** = /m/ as in "moon"
+- **n** = /n/ as in "net"
+- **p** = /p/ as in "pen"
+- **r** = /r/ as in "red" (trilled or tapped /ɾ/ in some dialects)
+- **s** = /s/ as in "see"
+- **t** = /t/ as in "top"
+- **v** = /v/ as in "voice"
+- **z** = /z/ as in "zoo"
+
+With Exceptions being:
 
 - **c** = /ʃ/ as in "**sh**ell"
 - **j** = /ʒ/ as in "mea**s**ure" or "plea**s**ure"
